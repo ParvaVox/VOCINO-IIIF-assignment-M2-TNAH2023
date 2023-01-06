@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 117,
+    "height" : 176
+  }, {
+    "width" : 234,
+    "height" : 351
+  }, {
+    "width" : 468,
+    "height" : 702
+  }, {
+    "width" : 936,
+    "height" : 1404
+  }, {
+    "width" : 1872,
+    "height" : 2808
+  }, {
+    "width" : 3744,
+    "height" : 5616
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3744,
+  "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Basel_UBB_A_VII_3_f.12v",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5616
+}
