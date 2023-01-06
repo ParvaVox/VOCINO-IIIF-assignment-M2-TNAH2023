@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Bern-BB-363-p.25v-annotations.json", "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Dresden-A-145-b-p.99v-annotations.json", "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Basel_UBB-A-VII-3_f.23r-annotations.json", "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/SanktGallen-CSG-48-p.395-annotations.json" ],
+  "otherContent" : [ "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Bern-BB-363-p.25v-annotations.json", "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Dresden-A-145-b-p.99v-annotations.json", "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Basel_UBB-A-VII-3_f.23r-annotations.json" ],
   "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/collection.json",
   "label" : "All annotations loaded in ParvaVox/VOCINO-IIIF-assignment-M2-TNAH2023 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
