@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">The scribe is here trying out an alternative verse, which can be found in a poem copied in another manuscript (Sankt-Gallen, CSG 48, p. 395, cf. next image), thus allowing to confirm the connection between the two.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">The scribe is here trying out an alternative verse, which can be found in a poem copied in another manuscript (Sankt-Gallen, CSG 48, p. 395, cf. next image), thus allowing to confirm the connection between the two.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "interlinear annotation",
+      "@type" : "oa:Tag",
+      "chars" : "interlinear annotation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cross-reference",
+      "@type" : "oa:Tag",
+      "chars" : "cross-reference"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-01-06T16:28:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673022505747",
+    "dcterms:modified" : "2023-01-06T16:40:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=667,3869,1082,205"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M666.53806,3868.54052h541.15248v0h541.15248v102.58831v102.58831h-541.15248h-541.15248v-102.58831z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_09eebd0d-c656-4f9b-9fea-f39c1c3589fe\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://dc8affdc-8e44-458e-87f2-57016e51b88e"
+    } ]
+  } ],
+  "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Basel_UBB-A-VII-3_f.12v-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
