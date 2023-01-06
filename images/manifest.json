@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3328,
+    "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395/canvas/",
+    "label" : {
+      "none" : [ "SanktGallen_SB_48_p.395" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 104,
+              "height" : 156
+            }, {
+              "width" : 208,
+              "height" : 312
+            }, {
+              "width" : 416,
+              "height" : 624
+            }, {
+              "width" : 832,
+              "height" : 1248
+            }, {
+              "width" : 1664,
+              "height" : 2496
+            }, {
+              "width" : 3328,
+              "height" : 4992
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3328,
+            "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4992
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3328,
+          "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4992
+        },
+        "target" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395/canvas/"
+      } ]
+    } ],
+    "height" : 4992
+  }, {
     "width" : 3744,
     "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Basel_UBB_A_VII_3_f.12v/canvas/",
     "label" : {
