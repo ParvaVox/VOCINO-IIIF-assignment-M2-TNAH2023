@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 89,
+    "height" : 134
+  }, {
+    "width" : 178,
+    "height" : 268
+  }, {
+    "width" : 356,
+    "height" : 536
+  }, {
+    "width" : 712,
+    "height" : 1072
+  }, {
+    "width" : 1424,
+    "height" : 2144
+  }, {
+    "width" : 2848,
+    "height" : 4288
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2848,
+  "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Dresden_SLUB_A_145_b_f.99v",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4288
+}
