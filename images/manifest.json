@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1080,
+    "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_Basel_UBB_A-VII-3_f.12v/canvas/",
+    "label" : {
+      "none" : [ "Cropped_Basel_UBB_A-VII-3_f.12v" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_Basel_UBB_A-VII-3_f.12v/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_Basel_UBB_A-VII-3_f.12v/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 34,
+              "height" : 5
+            }, {
+              "width" : 68,
+              "height" : 10
+            }, {
+              "width" : 135,
+              "height" : 19
+            }, {
+              "width" : 270,
+              "height" : 38
+            }, {
+              "width" : 540,
+              "height" : 75
+            }, {
+              "width" : 1080,
+              "height" : 150
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1080,
+            "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_Basel_UBB_A-VII-3_f.12v",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 150
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1080,
+          "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_Basel_UBB_A-VII-3_f.12v/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 150
+        },
+        "target" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_Basel_UBB_A-VII-3_f.12v/canvas/"
+      } ]
+    } ],
+    "height" : 150
+  }, {
     "width" : 3328,
     "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/SanktGallen_SB_48_p.395/canvas/",
     "label" : {
