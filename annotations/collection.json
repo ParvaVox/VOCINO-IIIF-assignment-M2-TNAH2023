@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/3b57080e3ef5e6c6efcd71a8d2a28f17.json" ],
+  "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/collection.json",
+  "label" : "All annotations loaded in ParvaVox/VOCINO-IIIF-assignment-M2-TNAH2023 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
