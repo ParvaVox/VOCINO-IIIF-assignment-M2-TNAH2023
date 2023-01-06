@@ -3,6 +3,11 @@
   "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json",
   "@type" : "sc:Manifest",
   "label" : "A ninth-century Irish Schoolmaster and his Books",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/120041235/609f590c0f917e8651556df944db7894/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "Giorgia VOCINO"
