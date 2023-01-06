@@ -1,0 +1,388 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "abbreviation",
+      "@type" : "oa:Tag",
+      "chars" : "abbreviation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Early medieval Irish abbreviation for the Latin conjunction&nbsp;et.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Early medieval Irish abbreviation for the Latin conjunction&nbsp;<em>et</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:23:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673004233621",
+    "dcterms:modified" : "2023-01-06T11:23:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1939,2427,65,90"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1938.58121,2426.67417h32.62742v0h32.62742v44.92697v44.92697h-32.62742h-32.62742v-44.92697z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_152c983a-9524-44a9-a3d8-cc5d9b8c275e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "abbreviation",
+      "@type" : "oa:Tag",
+      "chars" : "abbreviation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Early medieval Irish abbreviation for the genitive singular of the Latin demonstrative pronoun is, ea, id: eius.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Early medieval Irish abbreviation for the genitive singular of the Latin demonstrative pronoun <em>is, ea, id</em>: <em>eius</em>.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:23:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673004182605",
+    "dcterms:modified" : "2023-01-06T11:23:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=981,3197,63,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M980.69661,3197.41986h31.50484v0h31.50484v43.70678v43.70678h-31.50484h-31.50484v-43.70678z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f73c3cb-2898-4eff-8c29-cf45e9cc3c90\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "abbreviation",
+      "@type" : "oa:Tag",
+      "chars" : "abbreviation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Early medieval Irish abbreviation for the Latin conjunction enim.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Early medieval Irish abbreviation for the Latin conjunction <em>enim</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:11:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673003507722",
+    "dcterms:modified" : "2023-01-06T11:11:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1853,2869,104,79"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1853.13511,2868.55345h51.8414v0h51.8414v39.63947v39.63947h-51.8414h-51.8414v-39.63947z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c139adf7-d04d-4258-a64a-77869861dac6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Greek text with Latin translation above the line.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Greek text with Latin translation above the line.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Greek-Latin",
+      "@type" : "oa:Tag",
+      "chars" : "Greek-Latin"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "interlinear annotation",
+      "@type" : "oa:Tag",
+      "chars" : "interlinear annotation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-01-06T11:25:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673004313986",
+    "dcterms:modified" : "2023-01-06T11:25:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=577,835,2059,421"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M576.91531,1255.73082h1029.52373v0h1029.52373v-210.27117v-210.27117h-1029.52373h-1029.52373v210.27117z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_a0d4c31a-8812-4edd-a56a-750cbfea7142\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"4.89572\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Greek-Latin",
+      "@type" : "oa:Tag",
+      "chars" : "Greek-Latin"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "interlinear annotation",
+      "@type" : "oa:Tag",
+      "chars" : "interlinear annotation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Greek text with Latin translation above the line.\nTranslation was made word by word.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Greek text with Latin translation above the line.</p>\n<p>Translation was made word by word.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:07:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673003242158",
+    "dcterms:modified" : "2023-01-06T11:07:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=858,2078,1713,222"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M858.2705,2078.27465h856.35579v0h856.35579v110.81743v110.81743h-856.35579h-856.35579v-110.81743z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_034066b2-f31d-499c-ab53-9d7fb0e33e9b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "abbreviation",
+      "@type" : "oa:Tag",
+      "chars" : "abbreviation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Early medieval Irish abbreviation for the third-person singular of the Latin verb to be:&nbsp;est.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Early medieval Irish abbreviation for the third-person singular of the Latin verb to be:&nbsp;<em>est</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:20:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673004038651",
+    "dcterms:modified" : "2023-01-06T11:20:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1288,2903,53,73"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1287.77869,2902.53971h26.4207v0h26.4207v36.58898v36.58898h-26.4207h-26.4207v-36.58898z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_63f15de1-40cb-454a-b914-431975fa7457\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "abbreviation",
+      "@type" : "oa:Tag",
+      "chars" : "abbreviation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Early medieval Irish abbreviation for the third-person singular of the Latin verb to be:&nbsp;est.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Early medieval Irish abbreviation for the third-person singular of the Latin verb to be:&nbsp;<em>est</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:21:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673004073090",
+    "dcterms:modified" : "2023-01-06T11:21:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1286,3594,59,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1285.74504,3593.98281h29.47119v0h29.47119v40.6563v40.6563h-29.47119h-29.47119v-40.6563z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cd5a3b77-7216-411f-915e-802419833c1b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "technical signs",
+      "@type" : "oa:Tag",
+      "chars" : "technical signs"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Technical signs, that is attention signs and critical signs used in early medieval textual exegesis.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Technical signs, that is attention signs and critical signs used in early medieval textual exegesis.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T11:05:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673003117378",
+    "dcterms:modified" : "2023-01-06T11:05:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=401,2544,130,756"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M401.10459,2544.05991h65.06017v0h65.06017v378.24322v378.24322h-65.06017h-65.06017v-378.24322z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_06f9d871-18c3-4017-9eee-1e4ed5e85465\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Early medieval Irish abbreviation for the Latin conjunction et.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Early medieval Irish abbreviation for the Latin conjunction <em>et</em>.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "abbreviation",
+      "@type" : "oa:Tag",
+      "chars" : "abbreviation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-01-06T11:12:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673003560920",
+    "dcterms:modified" : "2023-01-06T11:12:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1314,3336,59,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1314.21622,3335.70848h29.47119v0h29.47119v40.6563v40.6563h-29.47119h-29.47119v-40.6563z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_5631a0b6-01d1-47cf-a30c-ee533eb94fc7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"16.26925\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ink transfer from the facing page.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ink transfer from the facing page.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "codicology",
+      "@type" : "oa:Tag",
+      "chars" : "codicology"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "editorial note",
+      "@type" : "oa:Tag",
+      "chars" : "editorial note"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120041235",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-01-06T14:26:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673015211476",
+    "dcterms:modified" : "2023-01-06T14:27:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/manifests/VOCINO_TheBernMaster.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=514,1241,1061,817"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M514.17149,1240.96079h530.45629v0h530.45629v408.27407v408.27407h-530.45629h-530.45629v-408.27407z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.65882,0.61961,0.61961],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ce70ff56-2b70-4680-a2c3-b94d8d6c2aa3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0c0ca0\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://983c5bc0-d20f-4e85-ba84-6a95c515bd1f"
+    } ]
+  } ],
+  "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/annotations/Dresden-A-145-b-p.99v-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
