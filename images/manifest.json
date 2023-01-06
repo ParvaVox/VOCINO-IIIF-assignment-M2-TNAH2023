@@ -1,0 +1,66 @@
+{
+  "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in ParvaVox/VOCINO-IIIF-assignment-M2-TNAH2023 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2430,
+    "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/BB_363_f25v/canvas/",
+    "label" : {
+      "none" : [ "BB_363_f25v" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/BB_363_f25v/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/BB_363_f25v/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 76,
+              "height" : 101
+            }, {
+              "width" : 152,
+              "height" : 201
+            }, {
+              "width" : 304,
+              "height" : 402
+            }, {
+              "width" : 608,
+              "height" : 804
+            }, {
+              "width" : 1215,
+              "height" : 1607
+            }, {
+              "width" : 2430,
+              "height" : 3213
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2430,
+            "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/BB_363_f25v",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3213
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2430,
+          "id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/BB_363_f25v/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3213
+        },
+        "target" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/BB_363_f25v/canvas/"
+      } ]
+    } ],
+    "height" : 3213
+  } ]
+}
