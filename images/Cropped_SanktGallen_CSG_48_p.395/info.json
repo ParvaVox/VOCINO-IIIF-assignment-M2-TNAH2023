@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 36,
+    "height" : 9
+  }, {
+    "width" : 71,
+    "height" : 18
+  }, {
+    "width" : 141,
+    "height" : 36
+  }, {
+    "width" : 281,
+    "height" : 71
+  }, {
+    "width" : 561,
+    "height" : 141
+  }, {
+    "width" : 1122,
+    "height" : 282
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1122,
+  "@id" : "https://ParvaVox.github.io/VOCINO-IIIF-assignment-M2-TNAH2023/images/Cropped_SanktGallen_CSG_48_p.395",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 282
+}
